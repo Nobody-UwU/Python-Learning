@@ -1,4 +1,4 @@
-fruits = ("apple", "orange", "banana")
+fruits = ("apple", "orange", "guava")
 x,y,z = fruits
 print(x)
 print(y)
