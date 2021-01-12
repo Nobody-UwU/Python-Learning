@@ -23,7 +23,7 @@ newlist = [x for x in fruits]
 print(newlist)
 
 #The iterable can be any iterable object, like a list, tuple, set etc.
-newlist = [x for x in range(10) if x < 5]
+newlist = [_ for _ in range(10) if _ < 5]
 print(newlist)
 
 newlist = [x.upper() for x in fruits]
