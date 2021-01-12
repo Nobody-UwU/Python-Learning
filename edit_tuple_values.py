@@ -1,0 +1,11 @@
+x = ("apple", "banana")
+y = list(x)
+y.append("orange")
+x = tuple(y)
+print(x)
+
+thistuple = ("apple", "banana", "cherry")
+y = list(thistuple)
+y.remove("apple")
+thistuple = tuple(y)
+print(thistuple)
