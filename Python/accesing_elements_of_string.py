@@ -1,2 +1,2 @@
-x = ("qwerty")
+x = "qwerty"
 print(x[0])

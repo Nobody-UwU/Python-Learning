@@ -1,8 +1,10 @@
-x = ("cringe")
+x = "cringe"
+
 
 def facts():
-    x = ("cancer")
+    x = "cancer"
     print("Tiktok is " + x)
+
 
 facts()
 

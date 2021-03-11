@@ -1,2 +1,2 @@
-txt = "I am a \"boy\"."
+txt = 'I am a "boy".'
 print(txt)
